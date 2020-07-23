@@ -37,7 +37,7 @@
 #
 #       Config files:
 #          /etc/mpd.conf
-#          /etc/asounf.conf
+#          /etc/asound.conf
 #          /usr/share/alsa/alsa.conf
 #          /home/pi/radio/songPlayer.conf
 #
