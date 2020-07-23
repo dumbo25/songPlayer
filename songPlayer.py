@@ -38,7 +38,7 @@
 #       Config files:
 #          /etc/mpd.conf
 #          /etc/asounf.conf
-#          /use/share/alsa/alsa.conf
+#          /usr/share/alsa/alsa.conf
 #          /home/pi/radio/songPlayer.conf
 #
 #       Logs are stored here:
