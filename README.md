@@ -5,4 +5,4 @@ I am creating a Radio Alarm Clock, which has many features. One feature is the a
 
 Eventually the featues of this script will be folded into the Alarm Clock Radio's GUI.
 
-More detailed instructions can be found here: https://sites.google.com/site/cartwrightraspberrypiprojects/song-player
+More detailed instructions can be found here: https://sites.google.com/site/cartwrightraspberrypiprojects/home/home-automation-categories/entertainment/alarm-clock-radio/song-player
